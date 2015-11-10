@@ -1,5 +1,5 @@
 {
-  "name": "poporn-api",
+  "name": "poporn-tvapi",
   "version": "1.0.1",
   "dependencies": {
     "URIjs": "^1.14.1",
@@ -10,11 +10,11 @@
     "cron": "^1.0.4",
     "express": "^4.3.0",
     "moment": "^2.6.0",
-    "mongoose": "^4.2.2",
+    "mongoose": "4.2.4",
     "morgan": "^1.6.1",
     "request": "^2.36.0",
     "response-time": "^1.0.0",
-    "trakt": "git+https://github.com/Bart-0110/node-trakt.git"
+    "trakt": "git+https://github.com/P-T-C/node-trakt.git"
   },
   "engines": {
     "node": ">=0.10.x",
@@ -22,6 +22,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Bart-0110/popcorn-api.git"
+    "url": "git://github.com/P-T-C/popcorn-tvapi.git"
   }
 }

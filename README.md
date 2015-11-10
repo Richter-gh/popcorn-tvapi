@@ -17,10 +17,10 @@ Setup MongoDB dirs
 `mkdir -p /data/db`
 
 Clone the repo
-`git clone https://github.com/Bart-0110/popcorn-api.git`
+`git clone https://github.com/P-T-C/popcorn-tvapi.git`
 
 Install dependencies
-`cd popcorn-api`
+`cd popcorn-tvapi`
 `npm install`
 
 Fire it up!
