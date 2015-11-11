@@ -2,6 +2,7 @@ module.exports = {
 	master: true,
 	port: 5000,
 	workers: 2,
+	lastRefresh: Math.floor((new Date).getTime()/1000),
 	scrapeTime: '00 00 * * * *',
 	scrapeTtl: 1000 * 60 * 60 * 10,
 	pageSize: 50,
