@@ -9,7 +9,7 @@ module.exports = {
 	dbHosts: [
 		'localhost'
 	],
-		map: {
+	map: {
 		'louie': 'louie-2010',
 		'battlestar-galactica': 'battlestar-galactica-2003',
 		'the-killing-us': 'the-killing-2011',
